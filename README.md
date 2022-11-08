@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markomarkov
 - 👀 I’m interested in Programing and making new things
-- 🌱 I’m currently learning C# and SQL
+- 🌱 I’m currently learning C++/C# and SQL
 
 <!---
 markomarkov/markomarkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
