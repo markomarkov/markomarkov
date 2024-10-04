@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markomarkov
 - 👀 I’m interested in Programing and making new things
 - 🌱 I’m learning JS/TS/C# and using Node.js & SQL
-- Now working professionally with C++/17 
+- Now working professionally with C++/17 and TS/Node.JS/NestJS
 
 <!---
 markomarkov/markomarkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
